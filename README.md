@@ -13,6 +13,12 @@ Here is some of the stuff I enjoy doing:
 * Data visualization
 * Maps
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://twitter.com/rami_krispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramikrispin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
+<a href="https://instagram.com/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramikrispin" height="30" width="40" /></a>
+
 ### Main projects
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
@@ -45,8 +51,3 @@ Workshops:
 
 
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/rami_krispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramikrispin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
-<a href="https://instagram.com/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramikrispin" height="30" width="40" /></a>
