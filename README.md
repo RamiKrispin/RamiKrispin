@@ -46,8 +46,4 @@ Workshops:
 </p>
 
 
-
-![profile](https://github-readme-stats.vercel.app/api?username=ramikrispin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
-
-
-
+![profile](https://github-readme-stats.vercel.app/api?username=ramikrispin&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)
