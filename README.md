@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a data science manager and an open-source contributor. I mainly write code with R and bash, occasionally I do Python, HTML, CSSS, and currently I am learning JavaScript and Julia.
+I'm a data science manager and an open-source contributor. I mainly write code with R and bash, occasionally I do Python, HTML, CSS, and currently I am learning JavaScript and Julia.
 
 Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
