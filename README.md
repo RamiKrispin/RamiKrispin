@@ -7,7 +7,7 @@ I'm a data science manager and an open-source contributor. I mainly write code w
 Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
 * Put stuff in production
-* Data
+* Work with data and APIs
 * Machine learning
 * Bayesian statistic 
 * Data visualization
