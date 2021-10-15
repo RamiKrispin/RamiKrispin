@@ -24,24 +24,24 @@ Tools for time series analysis and forecasting, and datasets:
 <p align="left">
   <a href="https://github.com/RamiKrispin/TSstudio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=TSstudio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
     <a href="https://github.com/RamiKrispin/USelectricity"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USelectricity&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
-  <a href="https://github.com/RamiKrispin/USgrid"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgrid&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
-  <a href="https://github.com/RamiKrispin/USgas"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
+  <a href="https://github.com/RamiKrispin/USgrid"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgrid&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
+  <a href="https://github.com/RamiKrispin/USgas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
 
 Covid19 datasets and dashboards:
 
 <p align="left">
-  <a href="https://github.com/RamiKrispin/coronavirus"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
-    <a href="https://github.com/RamiKrispin/coronavirus_dashboard"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus_dashboard"></a>
-  <a href="https://github.com/RamiKrispin/covid19italy"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=covid19italy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="covid19italy"></a>
-  <a href="https://github.com/RamiKrispin/italy_dash"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=italy_dash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="italy_dash"></a>
+  <a href="https://github.com/RamiKrispin/coronavirus"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
+    <a href="https://github.com/RamiKrispin/coronavirus_dashboard"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus_dashboard"></a>
+  <a href="https://github.com/RamiKrispin/covid19italy"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=covid19italy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="covid19italy"></a>
+  <a href="https://github.com/RamiKrispin/italy_dash"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=italy_dash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="italy_dash"></a>
 </p>
 
 Workshops:
 <p align="left">
-  <a href="https://github.com/RamiKrispin/Time-Series-Workshop"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=Time-Series-Workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Time-Series-Workshop"></a>
-    <a href="https://github.com/RamiKrispin/R-Ladies-Tunis-Docker-Workshop"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=R-Ladies-Tunis-Docker-Workshop&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="R-Ladies-Tunis-Docker-Workshop"></a>
-    <a href="https://github.com/RamiKrispin/halloween-time-series-workshop"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=halloween-time-series-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="halloween-time-series-workshop"></a>
+  <a href="https://github.com/RamiKrispin/Time-Series-Workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=Time-Series-Workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Time-Series-Workshop"></a>
+    <a href="https://github.com/RamiKrispin/R-Ladies-Tunis-Docker-Workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=R-Ladies-Tunis-Docker-Workshop&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="R-Ladies-Tunis-Docker-Workshop"></a>
+    <a href="https://github.com/RamiKrispin/halloween-time-series-workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=halloween-time-series-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="halloween-time-series-workshop"></a>
 
 </p>
 
