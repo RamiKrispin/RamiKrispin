@@ -22,8 +22,8 @@ Here is some of the stuff I enjoy doing:
 ## Main projects
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
-  <a href="https://github.com/RamiKrispin/TSstudio"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=TSstudio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
-    <a href="https://github.com/RamiKrispin/USelectricity"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USelectricity&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
+  <a href="https://github.com/RamiKrispin/TSstudio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=TSstudio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
+    <a href="https://github.com/RamiKrispin/USelectricity"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USelectricity&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="UKgrid"></a>
   <a href="https://github.com/RamiKrispin/USgrid"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgrid&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="USgrid"></a>
   <a href="https://github.com/RamiKrispin/USgas"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
