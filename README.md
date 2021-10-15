@@ -13,13 +13,13 @@ Here is some of the stuff I enjoy doing:
 * Data visualization
 * Maps
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://twitter.com/rami_krispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramikrispin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/ramikrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramikrispin" height="30" width="40" /></a>
 
-### Main projects
+## Main projects
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
   <a href="https://github.com/RamiKrispin/TSstudio"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=TSstudio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
