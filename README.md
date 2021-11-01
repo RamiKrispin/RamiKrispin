@@ -45,4 +45,4 @@ Workshops:
 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ramikrispin&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ramikrispin&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
