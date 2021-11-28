@@ -42,7 +42,7 @@ Workshops:
   <a href="https://github.com/RamiKrispin/Time-Series-Workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=Time-Series-Workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Time-Series-Workshop"></a>
     <a href="https://github.com/RamiKrispin/R-Ladies-Tunis-Docker-Workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=R-Ladies-Tunis-Docker-Workshop&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="R-Ladies-Tunis-Docker-Workshop"></a>
     <a href="https://github.com/RamiKrispin/halloween-time-series-workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=halloween-time-series-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="halloween-time-series-workshop"></a>
-<a href="https://github.com/RamiKrispin/gis-dataviz-workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=gis-dataviz-workshop=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gis-dataviz-workshop"></a>
+<a href="https://github.com/RamiKrispin/gis-dataviz-workshop"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=gis-dataviz-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gis-dataviz-workshop"></a>
 
 </p>
 
