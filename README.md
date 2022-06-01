@@ -1,6 +1,6 @@
 <img src="images/forecast_plot.png" width="100%" align="center"/></a>
 
-## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10">
 
 I'm a data science manager and an open-source contributor. I mainly write code with R and bash, occasionally I do Python, HTML, CSS, and currently I am learning JavaScript and Julia.
 
