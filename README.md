@@ -29,6 +29,13 @@ Tools for time series analysis and forecasting, and datasets:
   <a href="https://github.com/RamiKrispin/USgas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
 
+Book
+
+<p align="left">
+  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+
+  </p>
+
 Tutorials
 
 <p align="left">
