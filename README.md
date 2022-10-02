@@ -21,6 +21,15 @@ Here is some of the stuff I enjoy doing:
 <a href="https://t.me/+IZmKu6l4mk04YWU5" target="blank"> <img align="center" src="images/Telegram_logo.png" width="31" /></a>
 
 ## Main projects
+
+Books
+
+<p align="left">
+  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+    <a href="https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=Hands-On-Time-Series-Analysis-with-R&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Time-Series-Analysis-with-R"></a>
+
+  </p>
+
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
   <a href="https://github.com/RamiKrispin/TSstudio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=TSstudio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TSstudio"></a>
@@ -29,12 +38,7 @@ Tools for time series analysis and forecasting, and datasets:
   <a href="https://github.com/RamiKrispin/USgas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=USgas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="USgas"></a>
 </p>
 
-Book
 
-<p align="left">
-  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
-
-  </p>
 
 Tutorials
 
