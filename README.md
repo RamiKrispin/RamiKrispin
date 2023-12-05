@@ -47,16 +47,15 @@ Tools for time series analysis and forecasting, and datasets:
 Tutorials
 
 <p align="left">
-  <a href="https://github.com/RamiKrispin/Introduction-to-Docker"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=Introduction-to-Docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Introduction-to-Docker"></a>
   <a href="https://github.com/RamiKrispin/vscode-python"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-python"></a>
-   <a href="https://github.com/RamiKrispin/vscode-r"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-r"></a>
+  <a href="https://github.com/RamiKrispin/vscode-r"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-r"></a>
+  <a href="https://github.com/RamiKrispin/awesome-ds-setting"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=awesome-ds-setting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="awesome-ds-setting"></a>
+  <a href="https://github.com/RamiKrispin/lang2sql"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=lang2sql&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="lang2sql"></a>
+  <a href="https://github.com/RamiKrispin/Introduction-to-Docker"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=Introduction-to-Docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Introduction-to-Docker"></a>
   <a href="https://github.com/RamiKrispin/deploy-flex-actions"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=deploy-flex-actions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="deploy-flex-actions"></a>
   <a href="https://github.com/RamiKrispin/shinylive-r"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=shinylive-r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shinylive-r"></a>
   <a href="https://github.com/RamiKrispin/shinylive"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=shinylive&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shinylive"></a>
-    <a href="https://github.com/RamiKrispin/awesome-ds-setting"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=awesome-ds-setting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="awesome-ds-setting"></a>
   <a href="https://github.com/RamiKrispin/uselectricity-etl"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=uselectricity-etl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="deploy-flex-actions"></a>
-  <a href="https://github.com/RamiKrispin/Introduction-to-JavaScript"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=Introduction-to-JavaScript&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Introduction to JavaScript"></a>
-
   </p>
 
 
@@ -70,13 +69,6 @@ Covid19 datasets and dashboards:
   <a href="https://github.com/RamiKrispin/italy_dash"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=italy_dash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="italy_dash"></a>
 </p>
 
-Workshops:
-<p align="left">
-  <a href="https://github.com/RamiKrispin/Time-Series-Workshop"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=Time-Series-Workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Time-Series-Workshop"></a>
-    <a href="https://github.com/RamiKrispin/R-Ladies-Tunis-Docker-Workshop"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=R-Ladies-Tunis-Docker-Workshop&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="R-Ladies-Tunis-Docker-Workshop"></a>
-    <a href="https://github.com/RamiKrispin/halloween-time-series-workshop"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=halloween-time-series-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="halloween-time-series-workshop"></a>
-<a href="https://github.com/RamiKrispin/gis-dataviz-workshop"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=gis-dataviz-workshop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gis-dataviz-workshop"></a>
 
-</p>
 
 <p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramikrispin&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
