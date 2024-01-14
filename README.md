@@ -17,6 +17,7 @@ Here is some of the stuff I enjoy doing:
 <p align="left">
 <a href="https://medium.com/@rami.krispin" target="blank"> <img align="center" src="images/medium_logo.svg" width="40" /></a>
 <a href="https://t.me/+IZmKu6l4mk04YWU5" target="blank"> <img align="center" src="images/Telegram_logo.png" width="35" /></a>
+<a href="https://whatsapp.com/channel/0029VaFVyaC2Jl8MrsSMpJ3J" target="blank"> <img align="center" src="images/WhatsApp.svg" width="39" /></a>
 <a href="https://www.linkedin.com/in/rami-krispin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramikrispin" height="37" width="40" /></a>
 <a href="https://instagram.com/rami.krispin.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rami.krispin" height="35" width="40" /></a>
 <a href="https://www.threads.net/@rami.krispin.ds" target="blank"> <img align="center" src="images/threads.png" height="35"  width="35" /></a>
