@@ -54,12 +54,13 @@ Tutorials
   <a href="https://github.com/RamiKrispin/vscode-r"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-r"></a>
     <a href="https://github.com/RamiKrispin/vscode-python-template"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-python-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-python"></a>
   <a href="https://github.com/RamiKrispin/vscode-r-template"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=vscode-r-template&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vscode-r"></a>
-  <a href="https://github.com/RamiKrispin/awesome-ds-setting"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=awesome-ds-setting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="awesome-ds-setting"></a>
+  <a href="https://github.com/RamiKrispin/ollama-poc"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=ollama-poc&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ollama-poc"></a>
   <a href="https://github.com/RamiKrispin/lang2sql"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=lang2sql&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="lang2sql"></a>
   <a href="https://github.com/RamiKrispin/Introduction-to-Docker"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=Introduction-to-Docker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Introduction-to-Docker"></a>
   <a href="https://github.com/RamiKrispin/deploy-flex-actions"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=deploy-flex-actions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="deploy-flex-actions"></a>
   <a href="https://github.com/RamiKrispin/shinylive-r"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=shinylive-r&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shinylive-r"></a>
   <a href="https://github.com/RamiKrispin/shinylive"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=shinylive&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shinylive"></a>
+  <a href="https://github.com/RamiKrispin/awesome-ds-setting"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=awesome-ds-setting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="awesome-ds-setting"></a>
   </p>
 
 
@@ -74,5 +75,3 @@ Covid19 datasets and dashboards:
 </p>
 
 
-
-<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramikrispin&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="ramikrispin" />
