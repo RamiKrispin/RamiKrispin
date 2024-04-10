@@ -65,13 +65,3 @@ Tutorials
 
 
 
-Covid19 datasets and dashboards:
-
-<p align="left">
-  <a href="https://github.com/RamiKrispin/coronavirus"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus"></a>
-    <a href="https://github.com/RamiKrispin/coronavirus_dashboard"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=coronavirus_dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coronavirus_dashboard"></a>
-  <a href="https://github.com/RamiKrispin/covid19italy"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=covid19italy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="covid19italy"></a>
-  <a href="https://github.com/RamiKrispin/italy_dash"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RamiKrispin&repo=italy_dash&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="italy_dash"></a>
-</p>
-
-
