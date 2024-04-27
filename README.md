@@ -2,7 +2,11 @@
 
 ## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm a data science manager and an open-source contributor. I mainly write code with R and bash, occasionally I do Python, HTML, CSS, and currently I am learning JavaScript and Julia.
+I'm a data science manager and an open-source contributor. I mainly write code with Python, R and bash, occasionally I do HTML, CSS, and currently I am learning JavaScript and Julia.
+
+I enjoy teaching data science in production, MLOps, and Docker. You can find some of my tutorials on GitHub (see tutorial sections below) and [Medium](https://medium.com/@rami.krispin). I recently released a course - [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions) with LinkedIn Learning.
+
+
 
 Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
@@ -25,6 +29,11 @@ Here is some of the stuff I enjoy doing:
 <a href="https://mstdn.social/@ramikrispin" target="blank"><img align="center" src="images/mastodon_logo.png" alt="ramikrispin" height="30" width="40" /></a>
 
 ## Main projects
+
+Courses
+<p align="left">
+  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+    </p>
 
 Books
 
