@@ -32,7 +32,7 @@ Here is some of the stuff I enjoy doing:
 
 Courses
 <p align="left">
-  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+  <a href="https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
     </p>
 
 Books
