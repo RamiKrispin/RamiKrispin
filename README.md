@@ -32,14 +32,13 @@ Here is some of the stuff I enjoy doing:
 
 Courses
 <p align="left">
-  <a href="https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
+  <a href="https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
     </p>
 
 Books
 
 <p align="left">
-  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats.vercel.app
-/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
     <a href="https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R"><img width="400" src="https://github-readme-stats.vercel.app
 /api/pin/?username=RamiKrispin&repo=Hands-On-Time-Series-Analysis-with-R&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Time-Series-Analysis-with-R"></a>
 
