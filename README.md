@@ -2,9 +2,9 @@
 
 ## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm a data science manager and an open-source contributor. I mainly write code with Python, R and bash, occasionally I do HTML, CSS, and currently I am learning JavaScript and Julia.
+I'm a senior data science and engineering manager, author 📝, open-source contributor 🛠️, Docker Captain 🐳, and LinkedIn Instructor. I mainly write code with Python, R and bash, occasionally I do HTML, CSS, and trying to learn JavaScript and Julia.
 
-I enjoy teaching data science in production, MLOps, and Docker. You can find some of my tutorials on GitHub (see tutorial sections below) and [Medium](https://medium.com/@rami.krispin). I recently released a course - [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions) with LinkedIn Learning.
+I enjoy teaching about data science in production, MLOps, and Docker. You can find some of my tutorials on GitHub (see tutorial sections below) and [Medium](https://medium.com/@rami.krispin), and [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7230119265956216833/). I recently released a course - [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions) with LinkedIn Learning.
 
 
 
