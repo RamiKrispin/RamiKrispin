@@ -2,20 +2,24 @@
 
 ## Hi there, I'm Rami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm a senior data science and engineering manager, author 📝, open-source contributor 🛠️, Docker Captain 🐳, and LinkedIn Instructor. I mainly write code with Python, R and bash, occasionally I do HTML, CSS, and trying to learn JavaScript and Julia.
+I'm a senior data science and engineering manager, author 📝, open-source contributor 🛠️, Docker Captain 🐳, and LinkedIn Instructor. I mainly write code with Python, R, and Bash.
 
-I enjoy teaching about data science in production, MLOps, and Docker. You can find some of my tutorials on GitHub (see tutorial sections below) and [Medium](https://medium.com/@rami.krispin), and [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7230119265956216833/). I recently released a course - [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions) with LinkedIn Learning.
+I enjoy teaching about data science in production, MLOps, Docker, and time series analysis and forecasting.
 
+**Online Courses:**
 
+- [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions)
 
-Here is some of the stuff I enjoy doing:
-* Time series analysis and forecasting
-* Put stuff in production
-* Work with data and APIs
-* Machine learning
-* Bayesian statistic 
-* Data visualization
-* Maps
+- [Build with AI: SQL Agents with Large Language Models](https://www.linkedin.com/learning/build-with-ai-sql-agents-with-large-language-models)
+
+- [Designing Forecasting Pipelines for Production](https://app.datacamp.com/learn/courses/designing-forecasting-pipelines-for-production)
+
+**Newsletters:**
+
+- Rami’s Data Newsletter - [LinkedIn](https://www.linkedin.com/newsletters/rami-s-data-newsletter-7230119265956216833/) | [Substack](https://ramikrispin.substack.com/) 
+- The AIOps - [Substack](https://theaiops.substack.com/)
+- The Forecaster - [Substack](https://theforecaster.substack.com/)
+
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
@@ -33,6 +37,10 @@ Here is some of the stuff I enjoy doing:
 Courses
 <p align="left">
   <a href="https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
+    </p>
+
+  <p align="left">
+  <a href="https://github.com/LinkedInLearning/build-with-ai-sql-agents-with-large-language-models-4080183"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=LinkedInLearning&repo=build-with-ai-sql-agents-with-large-language-models-4080183&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
     </p>
 
 Books
