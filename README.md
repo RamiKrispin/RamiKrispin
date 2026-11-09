@@ -8,11 +8,18 @@ I enjoy teaching about data science in production, MLOps, Docker, and time serie
 
 **Online Courses:**
 
+- [Designing Forecasting Pipelines for Production](https://app.datacamp.com/learn/courses/designing-forecasting-pipelines-for-production)
+
 - [Data Pipeline Automation with GitHub Actions Using R and Python](https://www.linkedin.com/learning/data-pipeline-automation-with-github-actions-using-r-and-python/data-pipeline-automation-with-github-actions)
 
 - [Build with AI: SQL Agents with Large Language Models](https://www.linkedin.com/learning/build-with-ai-sql-agents-with-large-language-models)
 
-- [Designing Forecasting Pipelines for Production](https://app.datacamp.com/learn/courses/designing-forecasting-pipelines-for-production)
+- [Build with AI: SQL AI Agents in Production](https://www.linkedin.com/learning/build-with-ai-sql-ai-agents-in-production/)
+
+- [Docker for Local AI App Development: Build Lightweight, Containerized AI Applications](https://www.linkedin.com/learning/docker-for-local-ai-app-development-build-lightweight-containerized-ai-applications)
+
+**Book**
+- [Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R](https://www.amazon.com/dp/1788629159)
 
 **Newsletters:**
 
@@ -33,21 +40,6 @@ I enjoy teaching about data science in production, MLOps, Docker, and time serie
 <a href="https://mstdn.social/@ramikrispin" target="blank"><img align="center" src="images/mastodon_logo.png" alt="ramikrispin" height="30" width="40" /></a>
 
 ## Main projects
-
-Courses
-<p align="left">
-  <a href="https://github.com/LinkedInLearning/data-pipeline-automation-with-github-actions-4503382"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=LinkedInLearning&repo=data-pipeline-automation-with-github-actions-4503382&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
-  <a href="https://github.com/LinkedInLearning/build-with-ai-sql-agents-with-large-language-models-4080183"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=LinkedInLearning&repo=build-with-ai-sql-agents-with-large-language-models-4080183&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Could not find the repo"></a>
-  
-  </p>
-
-Books
-
-<p align="left">
-  <a href="https://github.com/RamiKrispin/atsaf"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=RamiKrispin&repo=atsaf&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
-  <a href="https://github.com/RamiKrispin/Hands-On-Time-Series-Analysis-with-R"><img width="400" src="https://github-readme-stats-git-master-rami-krispins-projects.vercel.app/api/pin/?username=RamiKrispin&repo=Hands-On-Time-Series-Analysis-with-R&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Time-Series-Analysis-with-R"></a>
-
-  </p>
 
 Tools for time series analysis and forecasting, and datasets:
 <p align="left">
